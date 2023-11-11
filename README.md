@@ -1,4 +1,4 @@
-# pa4 : Matrix ADT and Ops
+# Matrix ADT and Ops
 
 ## Files:
 
